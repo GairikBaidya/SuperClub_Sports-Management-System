@@ -264,7 +264,6 @@ select.form-input option {
 input[type="checkbox"] {
   accent-color: var(--gold);
 }
-
 /* ─── GLOW BACKGROUNDS ─── */
 .sc-glow-top {
   position: absolute;
