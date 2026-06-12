@@ -20,7 +20,6 @@
 [![Supabase](https://img.shields.io/badge/Supabase-BaaS-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com/)
 [![Zod](https://img.shields.io/badge/Zod-Schema_Validation-3E67B1?style=for-the-badge&logo=zod&logoColor=white)](https://zod.dev/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-E8B84B?style=for-the-badge)](LICENSE)
-
 <br />
 
 [Features](#-features) · [Tech Stack](#-tech-stack) · [Architecture](#-architecture) · [Getting Started](#-getting-started) · [Project Structure](#-project-structure) · [Database Schema](#-database-schema) · [Contributing](#-contributing)
